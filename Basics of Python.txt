@@ -1,0 +1,26 @@
+Basics of Python:
+case sensitive
+Data Types:
+1. int:
+behavior:Fixed
+Order:Ordred
+Homogenity: Homogeneous
+	Default Value:`0`
+Demo:
+my_int = 42
+print("Orginal Integer: ",my_int)
+
+!.For lopp 
+The for loop int python is used to iterate over the specific condition
+2.While loop
+the while loop in python is used to repeat a condition is true.
+Machine Learning:
+ML is the subfield of computer science that gives"Computers the ability to learn without being explicitly programmed."
+scikit-learn is a popular open source ml library in python that provides simple and efficient tools for data analysis and modeling.
+tools:
+classification
+Regression
+Clustering
+Dimensionality Reduction
+Model Selection and evaluation
+
